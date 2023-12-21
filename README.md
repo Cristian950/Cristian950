@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristian950
 - 👀 I’m interested in learning and asimilating DevOps practices.
-- 🌱 I’m currently learning containers, Anmsiible, Vault.
+- 🌱 I’m currently learning containers, Ansible, Vault.
 - 💞️ I’m looking to collaborate on DevOps topics.
 - 📫 How to reach me crucerucristian@gmail.com
 
